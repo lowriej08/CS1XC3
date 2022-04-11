@@ -1,2 +1,7 @@
 Here is the link to to my GitHub repository for the final Compsci 1XC3 assignment:
 https://github.com/lowriej08/CS1XC3.git
+
+This line was added from my local repository and then pushed to my remote repository!
+
+Doing this allowed me to save final_as_repos.txt on my local hardrive so that I could then upload it to Avenue for submission.
+
